@@ -3,7 +3,9 @@ layout: default
 title: "All Pages"
 ---
 <ul>
-  {% for page in site.wiki %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% for page in site.pages %}
+    {% if page.url contains "wiki" and page.url != "/wiki/" %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>
