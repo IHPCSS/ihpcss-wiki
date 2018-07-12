@@ -1,14 +1,14 @@
-title: git-wiki
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
+title: IHPCSS Wiki
+description: International HPC Summer School
 show_downloads: true
 git_branch: master
 logo_url:
 google_analytics:
-theme: 
+theme:
 wiki_folder: wiki
 use_github_wiki: false
 use_prose_io: true
-google_cse_token: 
+google_cse_token:
 custom_head: false
 custom_sidebar: false
 custom_footer: false
