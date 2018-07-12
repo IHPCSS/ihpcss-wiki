@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: History
 ---
-
-# History
 
 The International HPC Summer School on Challenges in Computational Sciences is a series of events started in 2010 and taking place yearly.
 Initiated by NSF's TeraGrid and EU's DEISA project, the first school was organized in Italy in 2010, and was then continued by NSF's XSEDE and EU's PRACE projects with locations alternating between North America and Europe.

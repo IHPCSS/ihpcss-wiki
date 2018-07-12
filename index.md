@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # International HPC Summer School
 
 This unique expense-paid event brings together excellent students from many parts of the world, to participate for one week in an exciting program coupled with dedicated mentoring and networking.
