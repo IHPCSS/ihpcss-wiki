@@ -1,0 +1,9 @@
+---
+layout: default
+title: "All Pages"
+---
+<ul>
+  {% for page in site.wiki %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
