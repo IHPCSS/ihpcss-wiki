@@ -11,7 +11,7 @@
       src="https://code.jquery.com/jquery-3.2.1.min.js"
       integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
       crossorigin="anonymous"></script>
-    
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/wiki-features.js' | relative_url }}"></script>
 
@@ -33,7 +33,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+          <p class="view"><a href="{{ site.github.owner_url }}">View GitHub Organization</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
@@ -47,7 +47,7 @@
       {% if site.custom_sidebar %}
           {% include sidebar.html %}
       {% endif %}
-        
+
       </header>
       <section>
       <div id="tools-buttons" style="width: 100%; text-align: right">
@@ -64,7 +64,7 @@
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">History</a></span>
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></span>
         {% endif %}
-        
+
         {% if site.google_cse_token %}
           <script>
           (function() {
@@ -87,13 +87,13 @@
           </form>
         {% endif %}
       </div>
-        
+
       <div id="toc"></div>
- 
+
       <div id="content">
         {{ content }}
       </div>
-        
+
       {% if site.comments %}
           {% include comments.html %}
       {% endif %}
@@ -127,7 +127,7 @@
         ga('send', 'pageview');
     </script>
     {% endif %}
-    
+
     <script type="text/javascript">
         $(document).ready(function() {
             $('#toc').toc({ title: '<i>Contents</i>'});
