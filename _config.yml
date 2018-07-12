@@ -1,6 +1,6 @@
 title: IHPCSS Wiki
 description: International HPC Summer School
-show_downloads: true
+show_downloads: false
 git_branch: master
 logo_url: /assets/images/ihpcss-logo.png
 google_analytics:
