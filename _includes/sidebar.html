@@ -7,3 +7,42 @@
   {% endfor %}
   <li><a href="/wiki/code-of-conduct.html">Code of Conduct</a></li>
 </ul>
+
+<div id="tools-buttons">
+  <ul>
+  {{page.relative_path}}
+  {% if site.use_github_wiki %}
+  <li><a target="_blank" href="{{ site.github.repository_url }}/{{page.folder}}{{url | remove: '.html' | append: ''}}/_edit">Edit</a></li>
+  <li><a target="_blank" href="{{ site.github.repository_url }}/{{page.folder}}{{url | remove: '.html' | append: ''}}/_history">History</a></li>
+  <li><a target="_blank" href="{{ site.github.repository_url }}/{{page.folder}}{{url | remove: '.html' | append: '.md'}}/">Source</a></li>
+  {% else %}
+  <li><a target="_blank" href="{{ site.github.repository_url }}/edit/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Edit this page</a></li>
+  {% if site.use_prose_io %}
+  <li><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Edit with Prose.io</a></li>
+  {% endif %}
+  <li><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">History</a></li>
+  <li><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></li>
+  {% endif %}
+  </ul>
+  {% if site.google_cse_token %}
+  <script>
+    (function() {
+        var cx = "{{site.google_cse_token}}";
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+  </script>
+  <gcse:search></gcse:search>
+  {% else %}
+  <form method="GET" action="{{ site.github.repository_url }}/search">
+    {% if site.use_github_wiki %}
+    <input type="hidden" name="type" value="Wikis">
+    {% endif %}
+    <input type="text" name="q" placeholder="Text to search"><input type="submit" value="Search">
+  </form>
+  {% endif %}
+</div>
