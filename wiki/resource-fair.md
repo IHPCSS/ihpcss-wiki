@@ -4,9 +4,7 @@ title:  Resource Fair
 tags:   [mentoring]
 ---
 
-*details coming soon xxxx*
-
-{{ page.tags }}
+*details coming soon*
 
 ## Past Topics
 
