@@ -1,7 +1,6 @@
 title: IHPCSS Wiki
 description: International HPC Summer School
 
-
 wiki_folder: wiki
 
 # Sidebar
@@ -13,8 +12,6 @@ custom_head: false
 custom_sidebar: true
 custom_footer: false
 
-google_cse_token:
-google_analytics:
 theme:
 
 use_github_wiki: false
