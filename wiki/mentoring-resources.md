@@ -22,7 +22,7 @@ Be ready to practice the following:
   Make sure you provide opportunities for questions and be aware that they may not feel comfortable initiating discussions.
   They may not have burning questions at all times, but by making contact you provide opportunities for them to reach out to you.
 
-When working with any student, particularly those from a different background or those with a disability, remember that the student has already learned how to overcome many challenges in their owni life.
+When working with any student, particularly those from a different background or those with a disability, remember that the student has already learned how to overcome many challenges in their own life.
 They are the experts on communicating their own abilities, needs, and challenges.
 If you are having a difficult time communicating, the mentee will surely not take issue if you ask them for help in how to best mentor and communicate with them.
 
