@@ -61,9 +61,10 @@ Much of this information is taken from an invaluable resource: *Adviser, Teacher
   No match is perfect and your mentor may only be able to help you with some of your issues, this does not mean that the partnership will not work.
   Discuss your aims and goals; find out the strengths of your mentor and the areas in which your mentor feels able to assist.
  
-### What should you talk about with your mentor?
+### What should I talk about with my mentor?
 
-You will have many opportunities to talk to your mentor and fellow mentees, and the better prepared you are the more you will benefit from them. You should spend some time thinking what it is that you want to talk with your mentor about.
+You will have many opportunities to talk to your mentor and fellow mentees, and the better prepared you are the more you will benefit from them.
+You should spend some time thinking what it is that you want to talk with your mentor about.
  
 Things you may want to talk about include:
 - How to organise your time and responsibilities;
