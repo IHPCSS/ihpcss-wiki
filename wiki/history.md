@@ -23,4 +23,5 @@ The objective of the Summer School is to familiarize the best students of the re
 | 2015 | Toronto, Canada                   | [Link](https://ihpcss2015.computecanada.ca/)                                                        |
 | 2016 | Ljubljana, Slovenia               | [Link](http://ihpcss2016.hpc.fs.uni-lj.si/)                                                         |
 | 2017 | Boulder, Colorado, USA            | [Link](https://confluence.xsede.org/display/IH17/International+HPC+Summer+School+2017)              |
-| 2018 | Ostrava, Czech Republic           | [Link](http://ihpcss18.it4i.cz)                                                                                              |
+| 2018 | Ostrava, Czech Republic           | [Link](http://ihpcss18.it4i.cz)                                                                     |                        |
+| 2019 | Kobe, Japan                       | [Link](https://ss19.ihpcss.org)                                                                     |
