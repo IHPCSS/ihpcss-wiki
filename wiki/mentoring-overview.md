@@ -8,10 +8,10 @@ The Summer School staff includes returning mentors (people who are previous IHPC
 Most staff members act as mentors to the students attending the summer school.
 
 In addition to the details here, please see these pages:
-- [Guide for Mentees](https://ihpcss.github.io/wiki/guide-mentees.html)
-- [Guide for Mentors](https://ihpcss.github.io/wiki/guide-mentors.html)
-- [Mentoring Activity Schedule](https://ihpcss.github.io/wiki/mentoring-schedule.html)
-- [Ice Breaker Game](https://ihpcss.github.io/wiki/ice-breaker.html)
+- [Guide for Mentees]({{ site.baseurl }}/wiki/guide-mentees.html)
+- [Guide for Mentors]({{ site.baseurl }}/wiki/guide-mentors.html)
+- [Mentoring Activity Schedule]({{ site.baseurl }}/wiki/mentoring-schedule.html)
+- [Ice Breaker Game]({{ site.baseurl }}/wiki/ice-breaker.html)
 
 ## Mentoring Groups
 
