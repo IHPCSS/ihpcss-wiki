@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mentor Resources"
+title: "Guide for Mentors"
 ---
 
 Much of this information is taken from an invaluable resource:
