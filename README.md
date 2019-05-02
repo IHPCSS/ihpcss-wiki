@@ -11,8 +11,10 @@ Either point your browser at "ihpcss.github.io/wiki/new-page-name" or create a n
 On each page, please include the following yaml front-matter at the top:
 
 ``` yaml
+---
 layout: page
 title: "New Page Name Here"
+---
 ```
 
 New pages should automatically appear in the sidebar navigation.
