@@ -17,7 +17,13 @@ title: "New Page Name Here"
 ---
 ```
 
-New pages should automatically appear in the sidebar navigation.
+To have a page appear in the sidebar navigation, include this in the front-matter:
+
+``` yaml
+tag: [sidebar]
+```
+
+Once you've created the new page, manually update the site map listing on the `index.md` page.
 
 ## Editing
 
