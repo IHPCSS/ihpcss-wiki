@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Code of Conduct
+tag: [sidebar]
 ---
 
 # Code of Conduct

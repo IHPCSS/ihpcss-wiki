@@ -1,6 +1,7 @@
 <ul>
   <li><a href="/">Home</a></li>
-  {% for page in site.pages %}
+  {% assign sbpages = site.pages | where: "tag", "sidebar" %}
+  {% for page in sbpages %}
     {% if page.url contains "wiki" and page.url != "/wiki/" %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}

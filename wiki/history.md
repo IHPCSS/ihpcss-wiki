@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "History of IHPCSS"
+tag: [sidebar]
 ---
 
 The International HPC Summer School on Challenges in Computational Sciences is a series of events started in 2010 and taking place yearly.

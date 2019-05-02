@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Mentoring Overview"
+tag: [sidebar]
 ---
 
 The Summer School staff includes returning mentors (people who are previous IHPCSS students), presenters, and organizers.
@@ -16,7 +17,7 @@ In addition to the details here, please see these pages:
 
 Mentor groups are assigned in June and consist of 1 staff member (the mentor) and 3-4 students (the mentees).
 These groups are assigned based on the responses from the matching surveys.
-While we do our best to match based on mutual interests, if you find that you and your mentor aren’t compatible, please talk with other mentors instead, or raise this with the mentoring team (Scott/Weronika). 
+While we do our best to match based on mutual interests, if you find that you and your mentor aren’t compatible, please talk with other mentors instead, or raise this with the mentoring team (Scott/Weronika).
 Our goal is not to force you to stay with the mentor you were assigned to, but rather that you have a positive mentoring experience.
 Even if you and your assigned mentor are a good match, we encourage you to talk with other staff members for a variety of perspectives and expertise.
 
