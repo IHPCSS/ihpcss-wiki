@@ -23,9 +23,9 @@ Even if you and your assigned mentor are a good match, we encourage you to talk 
 
 ## Mentoring Activities
 
-Before the Summer School starts, we will ask mentoring groups to complete an ice-breaker activity; it will help you to get to know your mentor and fellow mentees a little better.
+Before the Summer School starts, we will ask mentoring groups to complete an [ice-breaker activity](https://ihpcss.github.io/wiki/ice-breaker.html); it will help you to get to know your mentor and fellow mentees a little better.
 
-At the Summer School, there will be both formal mentoring opportunities (as outlined in the schedule) and informal opportunities (e.g., meals, the poster session, and evening activities).
+At the Summer School, there will be both formal mentoring opportunities (as outlined in [the schedule](https://ihpcss.github.io/wiki/mentoring-schedule.html)) and informal opportunities (e.g., meals, the poster session, and evening activities).
 During the formal mentoring activities, you will be expected to interact with your mentor and/or mentoring group.
 We encourage all students to take advantage of the informal mentoring opportunities by interacting with other staff and peers.
 
