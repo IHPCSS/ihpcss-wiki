@@ -34,17 +34,17 @@ When you are just starting your career you may find talking to people you don’
 That is normal and can be overcome with practice.
 That is why we want to encourage you to take advantage of every opportunity during the summer school to develop, improve, and put your skills to test.
 You will be surrounded by over 90 potential training partners so have fun talking to them!
- 
+
 ## Tips for Communicating About Your Work in 1 Minute
- 
-1. Know your audience - 
+
+1. Know your audience -
    Quite often you will have a very limited time to get your message across so condense it.
    What is the most important thing that you want to communicate to this particular audience?
    Is it to highlight the importance of your work?
    Tell others about your latest project?
    Or simply introduce yourself and explain what you are working on?
    Some things you may want to do: introduce yourself, explain what you do and how, say what makes you unique, or mention who you work with.
-2. Prepare - 
+2. Prepare -
    Once you know what you want to say, try writing it down.
    Make sure to cover the most essential information.
    Be informative but avoid going into details.
@@ -52,7 +52,7 @@ You will be surrounded by over 90 potential training partners so have fun talkin
    Also think about the language you are using -- explain things as simply as possible, but don’t be patronizing.
    If you are preparing for a chat with someone from you field it’s fine to use a moderate amount of domain specific jargon.
    If you are talking to someone from a different field try to either avoid it completely or be prepared to provide a simple explanation.
-3. Practice - 
+3. Practice -
    After you have written it down try to deliver it.
    A nicely written text may not sound natural during a conversation so ask your friends to act it out with you.
    Use your opportunities wisely and talk to as many different people as possible, while trying to adjust your language and message depending on the situation.
