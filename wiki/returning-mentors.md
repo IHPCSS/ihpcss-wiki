@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Returning Mentors
-tags:   [mentoring]
 ---
 
 *more details coming soon*

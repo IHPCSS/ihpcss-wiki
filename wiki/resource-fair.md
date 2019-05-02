@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Resource Fair
-tags:   [mentoring]
 ---
 
 *details coming soon*
