@@ -5,6 +5,7 @@ title: "Ice Breaker Game"
 
 The aim of the "two truths and a lie" ice-breaker game is to build a relationship among the mentoring groups before the summer school starts.
 Please make time for this activity BEFORE arriving.
+The easiest way to play before the start of the summer school is to use email or create a [slack](https://ihpcss.github.io/wiki/slack.html) direct message group for the mentoring group (1 mentor and 3-4 mentees).
 
 During lunch on the first day of the summer school, we will ask mentoring groups to pair up and play the game in the larger group.
 
@@ -22,5 +23,3 @@ Players use different tactics to try to hide their lies.
 For example, three common statements or three unusual ones are perhaps hardest to evaluate.
 Be creative!
 Selecting lies that ‘seem like you’ or truths which don’t are often good strategies.
-
-The easiest way to play before the start of the summer school is to use email or create a slack direct message group for the mentoring group (1 mentor and 3-4 mentees).
