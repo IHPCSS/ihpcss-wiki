@@ -3,6 +3,9 @@ description: International HPC Summer School
 
 wiki_folder: wiki
 
+# Variables
+current_link: https://ss19.ihpcss.org
+
 # Sidebar
 show_downloads: false
 git_branch: master

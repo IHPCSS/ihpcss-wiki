@@ -3,7 +3,7 @@ layout: page
 title: "Mentoring Schedule"
 ---
 
-Please see this year's event website for the most up-to-date schedule.
+Please see [this year's event website]({{ site.current_link }}) for the most up-to-date schedule.
 
 | Day       | Time  | Activity                                                                          |
 |-----------|-------|-----------------------------------------------------------------------------------|
