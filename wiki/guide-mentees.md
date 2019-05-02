@@ -15,7 +15,7 @@ Much of this information is taken from an invaluable resource:
 - Learn from someone else’s experiences
 - Obtain help in achieving your goals
 - Improve your self-confidence
- 
+
 ## What can I do to get the most out of mentoring?
 
 - Keep in touch with your mentor before, during, and after the Summer School.
@@ -34,17 +34,17 @@ Much of this information is taken from an invaluable resource:
 ## What should I avoid?
 
 - Assuming that because technical areas differ, your mentor’s advice is not applicable.
-- Assuming that your mentor cannot possibly understand your situation.  
+- Assuming that your mentor cannot possibly understand your situation.
   Give them a chance -- you might be surprised!
 - Assuming your mentoring match will be perfect.
   No match is perfect and your mentor may only be able to help you with some of your issues, this does not mean that the partnership will not work.
   Discuss your aims and goals; find out the strengths of your mentor and the areas in which your mentor feels able to assist.
- 
+
 ## What should I talk about with my mentor?
 
 You will have many opportunities to talk to your mentor and fellow mentees, and the better prepared you are the more you will benefit from them.
 You should spend some time thinking what it is that you want to talk with your mentor about.
- 
+
 Things you may want to talk about include:
 - How to organise your time and responsibilities;
   How to achieve a work-life balance
