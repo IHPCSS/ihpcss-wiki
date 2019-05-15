@@ -37,7 +37,7 @@ Much of this information is taken from an invaluable resource:
 - Assuming that your mentor cannot possibly understand your situation.
   Give them a chance -- you might be surprised!
 - Assuming your mentoring match will be perfect.
-  No match is perfect and your mentor may only be able to help you with some of your issues, this does not mean that the partnership will not work.
+  No match is perfect and your mentor may only be able to help you with some of your issues; this does not mean that the partnership will not work.
   Discuss your aims and goals; find out the strengths of your mentor and the areas in which your mentor feels able to assist.
 
 ## What should I talk about with my mentor?
@@ -46,16 +46,16 @@ You will have many opportunities to talk to your mentor and fellow mentees, and 
 You should spend some time thinking what it is that you want to talk with your mentor about.
 
 Things you may want to talk about include:
-- How to organise your time and responsibilities;
-  How to achieve a work-life balance
+- How to organise your time and responsibilities
+- How to achieve a work-life balance
 - Personal and professional challenges -- how to make the best out of them
 - What to expect from working in the industry/academia/government/etc.
 - How to adapt to working in an international setting or another country
-- How to find funding;
-  How to get access to HPC resources
+- How to find funding
+- How to get access to HPC resources
 - Different working arrangements -- What is it like to work from home/work remotely?
 - Professional etiquette
-- How to talk to people;
-  How to effectively build your network
+- How to talk to people
+- How to effectively build your network
 - How to deal with people issues at work (e.g., problems with your advisor, manager, confrontations, etc.)
 - How to succeed in a job interview
