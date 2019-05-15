@@ -9,8 +9,8 @@ Please see [this year's event website]({{ site.current_link }}) for the most up-
 |-----------|-------|-----------------------------------------------------------------------------------|
 | Sunday    | 18:00 | Welcome Reception & Introduction to Mentoring                                     |
 | Monday    | 10:00 | Introduction of Presenters and Returning Mentors                                  |
-| Monday    | Lunch | [Ice-breaker game]({{ site.baseurl }}/wiki/ice-breaker.html) between groups |
-| Tuesday   | 16:30 | Mentoring Session                                                                 |
-| Wednesday | 17:00 | Mentoring Session                                                                 |
-| Thursday  | 11:30 | [Resource Fair]({{ site.baseurl }}/wiki/resource-fair.html)                       |
-| Friday    | 12:00 | Mentoring Session                                                                 |
+| Monday    | Lunch | Goal-setting for the Summer School in Mentor Groups                               |
+| Tuesday   | 16:30 | Resource Fair + one-on-one signups for Wednesday                                  |
+| Wednesday | 17:00 | One-on-one follow-ups from resource fair                                          |
+| Thursday  | 11:30 | One-on-one with your mentor                                                       |
+| Friday    | 12:00 | Wrap-up mentoring session                                                         |
