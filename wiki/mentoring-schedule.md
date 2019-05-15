@@ -8,7 +8,7 @@ Please see [this year's event website]({{ site.current_link }}) for the most up-
 | Day       | Time  | Activity                                                                          |
 |-----------|-------|-----------------------------------------------------------------------------------|
 | Sunday    | 18:00 | Welcome Reception & Introduction to Mentoring                                     |
-| Monday    | 10:00 | Introduction of Presenters and Returning Mentors                                  |
+| Monday    | 10:10 | Introduction of Presenters and Returning Mentors                                  |
 | Monday    | Lunch | Goal-setting for the Summer School in Mentor Groups                               |
 | Tuesday   | 16:30 | Resource Fair + one-on-one signups for Wednesday                                  |
 | Wednesday | 17:00 | One-on-one follow-ups from resource fair                                          |
