@@ -31,7 +31,7 @@ title:  Resource Fair
 - Networking (with people) skills
   [handout](assets/documents/networking-skills.pdf)
 - Working at an HPC center
-- Fantastic theses & how to design them
+- Fantastic theses & how to design them [handout](assets/documents/FantasticTheses.pdf)
 - Working at an undergraduate-focused institution
 - Dealing with hostile audience members
 - How do I change fields?
