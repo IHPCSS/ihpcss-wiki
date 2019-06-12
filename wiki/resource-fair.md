@@ -8,14 +8,14 @@ title:  Resource Fair
 ## Past Topics
 
 - Work/life balance;
-  [handout](assets/documents/work-life-balance.pdf)
+  [handout](/assets/documents/work-life-balance.pdf)
 - Switching departments
 - Diversifying your research; growing beyond your advisor
 - 2-body problem
 - Power dynamics in academia; how to deal with your advisor
 - Working at a national lab
 - Microagressions;
-  [handout](assets/documents/microagressions.pdf)
+  [handout](/assets/documents/microagressions.pdf)
   credit: This flier was developed for the purposes of the WHPC and EPCC Archer BoF at ISC'18 entitled:
   "Retaining the advantage of a diverse HPC workforce: How to deal with Microagressions".
 - Starting a family
@@ -27,11 +27,11 @@ title:  Resource Fair
 - Interviewing tips
 - Pursuing a career in a new country
 - Science Policy;
-  [handout](assets/documents/science-policy.pdf)
+  [handout](/assets/documents/science-policy.pdf)
 - Networking (with people) skills
-  [handout](assets/documents/networking-skills.pdf)
+  [handout](/assets/documents/networking-skills.pdf)
 - Working at an HPC center
-- Fantastic theses & how to design them [handout](assets/documents/FantasticTheses.pdf)
+- Fantastic theses & how to design them [handout](/assets/documents/FantasticTheses.pdf)
 - Working at an undergraduate-focused institution
 - Dealing with hostile audience members
 - How do I change fields?
