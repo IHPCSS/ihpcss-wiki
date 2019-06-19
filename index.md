@@ -24,4 +24,5 @@ It is based off of [Drassil's git-wiki](https://github.com/Drassil/git-wiki) the
 - [Activity Overview]({{ site.baseurl }}/wiki/activity-overview.html)
   - [Student Technical Sessions]({{ site.baseurl }}/wiki/student-tech-session.html)
   - [Resource Fair]({{ site.baseurl }}/wiki/resource-fair.html)
+- [Poster Session Overview]({{ site.baseurl }}/wiki/poster-session.html)
 - [Slack]({{ site.baseurl }}/wiki/slack.html)
