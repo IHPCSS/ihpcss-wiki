@@ -9,14 +9,13 @@ tag: [sidebar]
 A primary goal of the International HPC Summer School (IHPCSS) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible.
 As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all those who participate in our community (students, mentors, staff, and others), as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in the summer school to help us create safe and positive experiences for everyone.
 
 ## 1. Expected Behavior
 
-All IHPCSS participants are expected to comply with both local laws and the laws governing their home institutions.
-In addition, the following behaviors are expected and requested of all community members:
+he following behaviors are expected and requested of all IHPCSS participants and community members:
 
 - All participants, attendees, IHPCSS staff, and related personnel are to be treated with respect and dignity, valuing a diversity of views and opinions.
 - Be considerate and collaborative, critiquing ideas rather than individuals.
@@ -31,7 +30,7 @@ We are a community of professionals and we conduct ourselves professionally.
 ## 2. Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable during the summer school.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate.
+If a community member engages in unacceptable behavior, they may be asked to leave the event without warning or refund, at the sole discretion of the IHPCSS organizers.
 
 - Physical or verbal abuse of any attendee, speaker, volunteer, exhibitor, IHPCSS staff member, service provider, or other meeting guest.
 - Examples of unacceptable behavior include, but are not limited to, harassment, intimidation, discrimination, inappropriate use of nudity and/or sexual images in public spaces or in presentations, or threatening or stalking any attendee, speaker, volunteer, exhibitor, IHPCSS staff member, service provider, or other meeting guest.
