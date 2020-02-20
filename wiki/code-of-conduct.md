@@ -15,7 +15,7 @@ We invite all those who participate in the summer school to help us create safe 
 
 ## 1. Expected Behavior
 
-he following behaviors are expected and requested of all IHPCSS participants and community members:
+The following behaviors are expected and requested of all IHPCSS participants and community members:
 
 - All participants, attendees, IHPCSS staff, and related personnel are to be treated with respect and dignity, valuing a diversity of views and opinions.
 - Be considerate and collaborative, critiquing ideas rather than individuals.
